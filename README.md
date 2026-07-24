@@ -4,6 +4,9 @@
 ▸ &nbsp;Comfortable across functional, systems and web stacks — happiest in OCaml, TypeScript and PHP<br>
 ▸ &nbsp;Open to interesting collaborations · reach me on Discord: [`cainybtw`](https://discord.com/users/367649485423116291)<br>
 
+### Quote of the day
+> If your language reflects, you should reflect on your language. ~me
+
 ### Codewars
 [![Codewars](https://www.codewars.com/users/cainydev/badges/large)](https://www.codewars.com/users/cainydev/)
 
